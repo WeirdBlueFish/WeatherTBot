@@ -8,7 +8,7 @@
 
 - ✨ Get Moment Weather Situation 
 - 🚀 Using Both API and Telegram Bot at the same time 
-- 🔒 Get Logging In Your Admin Bot a
+- 🔒 Get Logging In Your Admin Bot 
 
 ### 🛠️ Installation
 - Get API key in https://openweathermap.org/api
